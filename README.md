@@ -1,0 +1,4 @@
+AngularBlackJack
+================
+
+Blackjack in angular
